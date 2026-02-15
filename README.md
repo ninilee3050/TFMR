@@ -132,11 +132,13 @@ git config --global user.email "YOUR_EMAIL"
 - `.gitignore`: Git 제외 규칙
 
 현재 Git 제외 규칙:
-- `/.cache`
 - `/__pycache__`
 - `/build`
 - `/TFMR.spec`
 - `/dist/TFMR/.cache`
+
+참고:
+- 루트 `.cache/`는 프로젝트 설정 재현을 위해 Git에 포함됩니다.
 
 ---
 
