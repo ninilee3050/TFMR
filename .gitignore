@@ -1,2 +1,5 @@
 /.cache
 /__pycache__
+/build
+/TFMR.spec
+/dist/TFMR/.cache
