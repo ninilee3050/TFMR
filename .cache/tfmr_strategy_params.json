@@ -1,0 +1,13 @@
+{
+  "gc_fast_ma": 20,
+  "gc_slow_ma": 50,
+  "pullback_short_ma": 5,
+  "pullback_base_ma": 20,
+  "long_fast_ma": 150,
+  "long_slow_ma": 200,
+  "target_pullback_no": 1,
+  "step_drop_pct": 3.0,
+  "require_long_ma_order": true,
+  "require_close_above_long_ma": true,
+  "require_bearish_entry": true
+}

@@ -1,0 +1,17 @@
+{
+  "KakaoPay": {
+    "buy_fee_rate": 0.0007,
+    "sell_fee_rate": 0.000708,
+    "use_kr_fee_model": false
+  },
+  "KIS": {
+    "buy_fee_rate": 0.0025,
+    "sell_fee_rate": 0.002508,
+    "use_kr_fee_model": false
+  },
+  "Custom": {
+    "buy_fee_rate": 0.0025,
+    "sell_fee_rate": 0.0025,
+    "use_kr_fee_model": false
+  }
+}
